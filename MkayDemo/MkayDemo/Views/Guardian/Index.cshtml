@@ -1,0 +1,32 @@
+﻿@model MkayDemo.Models.Guardian
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm()) {
+    <div>
+        <fieldset>
+            <legend>Mkay Demo: Guardian</legend>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.Rule)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(m => m.Rule)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.Value)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(m => m.Value) &nbsp; @Html.ValidationMessageFor(m => m.Value)
+            </div>
+
+            <p>
+                <input type="submit" value="Update" />
+            </p>
+        </fieldset>
+    </div>
+}

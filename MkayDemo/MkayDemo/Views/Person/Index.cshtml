@@ -1,0 +1,47 @@
+﻿@model MkayDemo.Models.Person
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm()) {
+    <div>
+        <fieldset>
+            <legend>Mkay Demo</legend>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.Name)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(m => m.Name) &nbsp; @Html.ValidationMessageFor(m => m.Name)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.BirthDate)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(m => m.BirthDate) &nbsp; @Html.ValidationMessageFor(m => m.BirthDate)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.DeathDate)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(m => m.DeathDate) &nbsp; @Html.ValidationMessageFor(m => m.DeathDate)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.LastSeen)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(m => m.LastSeen) &nbsp; @Html.ValidationMessageFor(m => m.LastSeen)
+            </div>
+
+
+            <p>
+                <input type="submit" value="Update" />
+            </p>
+        </fieldset>
+    </div>
+}

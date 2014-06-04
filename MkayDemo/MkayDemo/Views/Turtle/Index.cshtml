@@ -1,0 +1,32 @@
+﻿@model MkayDemo.Models.Turtle
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm()) {
+    <div>
+        <fieldset>
+            <legend>Mkay Demo: Turtle</legend>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.Me)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(m => m.Me) &nbsp; @Html.ValidationMessageFor(m => m.Me)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(m => m.Too)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(m => m.Too) &nbsp; @Html.ValidationMessageFor(m => m.Too)
+            </div>
+
+            <p>
+                <input type="submit" value="Update" />      
+            </p>
+        </fieldset>
+    </div>
+}
