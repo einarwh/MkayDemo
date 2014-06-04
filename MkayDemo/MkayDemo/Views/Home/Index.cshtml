@@ -3,8 +3,11 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-@Html.ActionLink("Person", "Index", "Person")
+<ul>
+    <li>@Html.ActionLink("Person", "Index", "Person")</li>
+    <li>@Html.ActionLink("Guardian", "Index", "Guardian")</li>
+    <li>@Html.ActionLink("Turtle", "Index", "Turtle")</li>
+</ul>
 
-@Html.ActionLink("Guardian", "Index", "Guardian")
 
-@Html.ActionLink("Turtle", "Index", "Turtle")
+

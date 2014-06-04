@@ -34,3 +34,39 @@ e:\users\eih\documents\visual studio 2010\Projects\MkayDemo\MkayDemo\bin\System.
 e:\users\eih\documents\visual studio 2010\Projects\MkayDemo\MkayDemo\obj\Debug\MkayDemo.csprojResolveAssemblyReference.cache
 e:\users\eih\documents\visual studio 2010\Projects\MkayDemo\MkayDemo\obj\Debug\MkayDemo.dll
 e:\users\eih\documents\visual studio 2010\Projects\MkayDemo\MkayDemo\obj\Debug\MkayDemo.pdb
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\MkayDemo.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\MkayDemo.pdb
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\Antlr3.Runtime.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\EntityFramework.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\Mkay.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\Newtonsoft.Json.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Net.Http.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Net.Http.Formatting.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Net.Http.WebRequest.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.Http.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.Http.WebHost.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.Mvc.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.Optimization.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.Providers.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.Razor.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.WebPages.Deployment.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.WebPages.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.WebPages.Razor.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\WebActivatorEx.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\WebGrease.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\Newtonsoft.Json.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\EntityFramework.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Net.Http.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Net.Http.Formatting.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Net.Http.WebRequest.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.Http.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.Http.WebHost.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.Mvc.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.Razor.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.WebPages.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.WebPages.Deployment.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\bin\System.Web.WebPages.Razor.xml
+E:\hub\mkaydemo\MkayDemo\MkayDemo\obj\Debug\MkayDemo.csprojResolveAssemblyReference.cache
+E:\hub\mkaydemo\MkayDemo\MkayDemo\obj\Debug\MkayDemo.dll
+E:\hub\mkaydemo\MkayDemo\MkayDemo\obj\Debug\MkayDemo.pdb

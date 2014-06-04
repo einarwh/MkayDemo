@@ -1,7 +1,4 @@
-﻿using System;
-using System.Web.Mvc;
-
-using MkayDemo.Models;
+﻿using System.Web.Mvc;
 
 namespace MkayDemo.Controllers
 {

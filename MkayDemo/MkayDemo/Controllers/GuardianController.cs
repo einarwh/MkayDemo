@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+using MkayDemo.Models;
+
 namespace MkayDemo.Controllers
 {
     public class GuardianController : Controller
@@ -15,6 +17,13 @@ namespace MkayDemo.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+        public ActionResult Index(Guardian g)
+        {
+            return View(g);
+        }
+
 
     }
 }
